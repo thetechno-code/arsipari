@@ -1,11 +1,11 @@
-# ARSIPARI — Sistem Manajemen Arsip Digital MTsN 1 Magelang
+# ARSIPKAN — Sistem Manajemen Arsip
 
 [![Laravel](https://img.shields.io/badge/Laravel-12.x-red.svg)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.3%2B-blue.svg)](https://php.net)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-green.svg)](https://sqlite.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**ARSIPARI** adalah sistem manajemen arsip digital berbasis web yang dikembangkan khusus untuk **MTsN 1 Magelang** guna mengelola arsip dan dokumen digital secara terpusat, terstruktur, aman, dan efisien pada server internal sekolah (LAN).
+**ARSIPKAN** adalah sistem manajemen arsip digital berbasis web yang dikembangkan untuk mengelola arsip dan dokumen digital secara terpusat, terstruktur, aman, dan efisien pada server internal sekolah (LAN).
 
 ---
 
